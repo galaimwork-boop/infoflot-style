@@ -1,4 +1,5 @@
 /* Фирменные акценты виджета Инфофлот */
+@import url("https://bitrix.infoflot.com/local/templates/infoflot/frontend/css/app.min.css");
 :root {
   --color-primary: #C08A28 !important;
   --color-primary-rgb: 192, 138, 40 !important;
